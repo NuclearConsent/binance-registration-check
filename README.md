@@ -1,6 +1,6 @@
 # binance-registration-check
 
-Lambda function to check if registration is open on binance.com.  Results are posted to [Telegram room](https://t.me/binancecheck).
+Lambda function to check if registration is open on binance.com.  Results are posted to [Telegram channel](https://t.me/binancecheck).
 
 ## How to use:
 1. Download a copy of this repository
