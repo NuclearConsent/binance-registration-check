@@ -1,0 +1,22 @@
+{
+  "name": "binance-registration-check",
+  "version": "1.0.0",
+  "description": "Check to see if registration is open on binance.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lateworks/binance-registration-check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lateworks/binance-registration-check/issues"
+  },
+  "homepage": "https://github.com/lateworks/binance-registration-check#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
