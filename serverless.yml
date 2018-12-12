@@ -1,0 +1,11 @@
+service: binance-registration-check
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+
+functions:
+  cron:
+    handler: index.handler
+    events:
+      -  schedule: rate(1 day)
